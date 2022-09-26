@@ -1,6 +1,7 @@
-### Hi, I'm Hussnain Raza
-![](https://media-exp1.licdn.com/dms/image/C4D16AQGQ9I2Xp3yTdw/profile-displaybackgroundimage-shrink_350_1400/0/1659974422608?e=1669852800&v=beta&t=87eun8dwUQhtpFAbhf5rjI99OWReLALj_IbAgKdAcdY)
 
+![](https://media-exp1.licdn.com/dms/image/C4D16AQGQ9I2Xp3yTdw/profile-displaybackgroundimage-shrink_350_1400/0/1659974422608?e=1669852800&v=beta&t=87eun8dwUQhtpFAbhf5rjI99OWReLALj_IbAgKdAcdY)
+## $whoami
+### Hi, I'm Hussnain Raza
 Innovative programmer cyber security practitioner with 3+ years of experience as a freelancer, also helped many enterprises to achieve maximum security and designed many applications for them. I helped early-to-mid stage companies like Web-club and Obaidaslamind for years.
 
 ## Skills & Experience:
@@ -14,10 +15,7 @@ Innovative programmer cyber security practitioner with 3+ years of experience as
  -  REACT
  -  HTML CSS & JS
 
-
-
-
-
+## INFO:
 - 🌱 I’m currently learning blockchain security 
 - 👯 I’m looking to collaborate on Cyber security related projects. 
 - 💬 Ask me about Python / C++ / SQL / bash / Linux / firewalls / networking  
