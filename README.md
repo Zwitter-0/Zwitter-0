@@ -3,7 +3,16 @@
 
 Innovative programmer cyber security practitioner with 3+ years of experience as a freelancer, also helped many enterprises to achieve maximum security and designed many applications for them. I helped early-to-mid stage companies like Web-club and Obaidaslamind for years.
 
-Skills: **Python / C++ / SQL / bash / Linux / firewalls / networking / REACT / JS / HTML / CSS**
+## Skills & Experience:
+** Python 
+   C++ 
+   SQL 
+   bash 
+   Linux 
+   firewalls 
+   networking 
+   REACT
+   HTML CSS & JS**
 
 - 🌱 I’m currently learning blockchain security 
 - 👯 I’m looking to collaborate on Cyber security related projects. 
