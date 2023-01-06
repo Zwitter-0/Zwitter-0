@@ -1,7 +1,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGQ9I2Xp3yTdw/profile-displaybackgroundimage-shrink_350_1400/0/1659974422608?e=1669852800&v=beta&t=87eun8dwUQhtpFAbhf5rjI99OWReLALj_IbAgKdAcdY)
 ## $whoami
 ### Hi, I'm Hussnain Raza
-Innovative programmer cyber security practitioner with 3+ years of experience as a freelancer, also helped many enterprises to achieve maximum security and designed many applications for them. I helped early-to-mid stage companies like Web-club and Obaidaslamind for years.
+As a highly innovative programmer and cybersecurity practitioner with over 3 years of experience in both freelance and enterprise roles, I have a proven track record of helping companies achieve maximum security and designing effective applications to meet their needs. I have provided support to early-to-mid stage companies for several years, and have a strong foundation in programming and cyber security best practices. My skills and experience make me well-equipped to tackle complex challenges and deliver high-quality solutions.
 
 ## Skills & Experience:
 ## languages:
